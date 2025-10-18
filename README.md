@@ -50,7 +50,7 @@ index.html
       <div class="div"></div>
       <div class="LOGIN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LOGIN</div>
       <img class="whatsapp-image" src="img/whatsapp-image-2025-10-08-at-13-29-02-1.png" />
-      <div class="DESIGNED-BY-KARTHIK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DESIGNED BY KARTHIK.A</div>
+      <div class="DESIGNED-BY-KARTHIK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DESIGNED BY KAVIARASU</div>
     </div>
   </body>
 </html>
@@ -187,7 +187,7 @@ index.html
   <body>
     <div class="iphone">
       <img class="rectangle" src="img/rectangle.png" />
-      <div class="text-wrapper">DESIGNED BY KARTHIK.A</div>
+      <div class="text-wrapper">DESIGNED BY KAVIARASU</div>
       <div class="div">THANK YOU.</div>
     </div>
   </body>
@@ -674,7 +674,7 @@ index.html
   <body>
     <div class="iphone">
       <img class="rectangle" src="img/rectangle.png" />
-      <div class="text-wrapper">DESIGNED BY KARTHIK.A</div>
+      <div class="text-wrapper">DESIGNED BY KAVIARASU</div>
       <div class="div">THANK YOU.</div>
     </div>
   </body>
